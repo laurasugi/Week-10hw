@@ -36,4 +36,4 @@ The wireframing process also helped me to have a very clear idea of what I was g
 ---
 
 # Issues
-The only issue I had this week was with the middle two boxes.  When I was sizing the page down, they were jumping around and white space was showing at the bottom of one of them.  I fixed this by setting the height for both of the boxes to 'height="auto"' on my style sheet.
+The only issue I had this week was with the middle two boxes.  When I was sizing the page down, they were jumping around and white space was showing at the bottom of one of them.  I fixed this by setting the height for both of the boxes to `height="auto"` on my style sheet.
