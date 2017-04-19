@@ -1,26 +1,24 @@
-# Week-10hw
+# ReadMe week 10
 Laura Sugiyama
 Nick Moles 50
 
-# ReadMe week 10
-
 # Overview
 
-	## What is the information this page tries to deliver?
+#### What is the information this page tries to deliver?
 	
-	This page contains information about what responsive web development is, why it is important, and some of the tools used to create it.
-	
-	
-	## What is the first information on the page that should draw the eye?
-	The first information that I wanted the eye to be drawn to was the brief description of RWD in the top box.
+This page contains information about what responsive web development is, why it is important, and some of the tools used to create it.
 	
 	
-	## What is the primary content of the page?
-	The primary content of the page is the top three boxes.
+#### What is the first information on the page that should draw the eye?
+The first information that I wanted the eye to be drawn to was the brief description of RWD in the top box.
+	
+	
+#### What is the primary content of the page?
+The primary content of the page is the top three boxes.
 	
 
-	## What is the secondary content of the page?
-	The secondary content is the list of links in the bottom box
+#### What is the secondary content of the page?
+The secondary content is the list of links in the bottom box
 
 ---
 
