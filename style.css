@@ -20,6 +20,7 @@ a{
 	width: 100%;
 	text-align: center;
 	order: 1;
+	outline: auto;
 	
 }
 
@@ -29,6 +30,7 @@ a{
 	text-align: center;
 	order: 2;
 	align-content: center;
+	height: auto;
 	
 }
 
@@ -37,6 +39,7 @@ a{
 	width: 50%;
 	text-align: center;
 	order: 3;
+	height: auto;
 	
 }
 
